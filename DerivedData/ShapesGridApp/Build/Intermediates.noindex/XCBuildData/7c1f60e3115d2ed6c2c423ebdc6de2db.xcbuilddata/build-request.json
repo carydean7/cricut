@@ -1,0 +1,70 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2aafccb436e3c5741f5a36e022ae3bdb307d3e1eb52392233417ea36e1effa74"
+    }
+  ],
+  "containerPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/Products",
+      "derivedDataPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone12,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "00008030-0015545622F2802E",
+          "TARGET_DEVICE_MODEL" : "iPhone12,5",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

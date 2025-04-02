@@ -1,0 +1,39 @@
+{
+  "" : {
+    "dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/Objects-normal/x86_64/ShapesGridApp-master.d",
+    "diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/Objects-normal/x86_64/ShapesGridApp-master.dia",
+    "emit-module-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/Objects-normal/x86_64/ShapesGridApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/Objects-normal/x86_64/ShapesGridApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/Objects-normal/x86_64/ShapesGridApp-master.swiftdeps"
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphonesimulator/ShapesGridApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ContentView.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Models/ShapeButton.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Services/APIServices.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ShapesGridAppApp.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ViewModels/ShapesViewModel.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/EditCirclesView.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapesGridView.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapesView.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapeView.swift" : {
+
+  }
+}

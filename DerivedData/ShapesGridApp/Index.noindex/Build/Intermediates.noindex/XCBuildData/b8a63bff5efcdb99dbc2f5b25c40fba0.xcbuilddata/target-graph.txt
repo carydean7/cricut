@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'ShapesGridApp' in project 'ShapesGridApp' (no dependencies)
+Target 'ShapesGridApp' in project 'ShapesGridApp' (no dependencies)

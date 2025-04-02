@@ -1,0 +1,16 @@
+{
+  "source": "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Clear All",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 46
+        }
+      }
+    ]
+  },
+  "version": 1
+}

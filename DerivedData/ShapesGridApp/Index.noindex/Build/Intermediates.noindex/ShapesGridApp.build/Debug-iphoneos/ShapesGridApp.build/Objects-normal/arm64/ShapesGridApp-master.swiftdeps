@@ -1,0 +1,16 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "742760db7b7e645252d97aee56dd3129eb8b02ce98271deaccc80d874f4891d8"
+build_start_time: [1743530509, 847482000]
+build_end_time: [1743530510, 315240000]
+inputs:
+  ? "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridApp.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1743530238, 328374081]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ContentView.swift": [1743468349, 714304072]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Models/ShapeButton.swift": [1743469415, 291740554]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Services/APIServices.swift": [1743529672, 869088614]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ShapesGridAppApp.swift": [1743466491, 382442272]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/ViewModels/ShapesViewModel.swift": [1743530509, 737967933]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/EditCirclesView.swift": [1743527956, 775863834]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapeView.swift": [1743527956, 754659789]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapesGridView.swift": [1743528840, 81018432]
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/ShapesView.swift": [1743527956, 734262877]

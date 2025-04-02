@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'ShapesGridAppUITests' in project 'ShapesGridApp' (no dependencies)
+Target 'ShapesGridAppUITests' in project 'ShapesGridApp'
+➜ Explicit dependency on target 'ShapesGridApp' in project 'ShapesGridApp'
+Target 'ShapesGridAppUITests' in project 'ShapesGridApp'
+➜ Explicit dependency on target 'ShapesGridApp' in project 'ShapesGridApp'
+Target 'ShapesGridAppTests' in project 'ShapesGridApp' (no dependencies)
+Target 'ShapesGridAppTests' in project 'ShapesGridApp'
+➜ Explicit dependency on target 'ShapesGridApp' in project 'ShapesGridApp'
+Target 'ShapesGridAppTests' in project 'ShapesGridApp'
+➜ Explicit dependency on target 'ShapesGridApp' in project 'ShapesGridApp'
+Target 'ShapesGridApp' in project 'ShapesGridApp' (no dependencies)
+Target 'ShapesGridApp' in project 'ShapesGridApp' (no dependencies)

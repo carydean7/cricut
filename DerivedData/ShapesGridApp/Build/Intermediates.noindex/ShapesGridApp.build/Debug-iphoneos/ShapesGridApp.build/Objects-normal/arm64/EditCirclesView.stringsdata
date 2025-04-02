@@ -1,0 +1,32 @@
+{
+  "source": "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp/Views/EditCirclesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Delete All",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Circle",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove Circle",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}
