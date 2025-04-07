@@ -11,7 +11,7 @@ struct ShapesGridView: View {
     @StateObject private var viewModel = ShapesViewModel()
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             GeometryReader { geometry in
                 VStack {
                     // Grid to Display Shapes
@@ -67,7 +67,6 @@ struct ShapesGridView: View {
                 }
             }
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

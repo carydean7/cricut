@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>1338570F-DEDF-4960-8F03-C5C9B0AEAFD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1338570F-DEDF-4960-8F03-C5C9B0AEAFD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765733115.50404501</real>
+			<key>timeStoppedRecording</key>
+			<real>765733144.57303298</real>
+			<key>title</key>
+			<string>Build (Automatic) ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1338570F-DEDF-4960-8F03-C5C9B0AEAFD0</string>
+		</dict>
 		<key>44B39A7B-3682-461B-B5E0-07BE1C60C51F</key>
 		<dict>
 			<key>className</key>
@@ -90,6 +132,48 @@
 			<key>uniqueIdentifier</key>
 			<string>4EE59D73-431A-46F1-A398-0BAB0A52E513</string>
 		</dict>
+		<key>7216E801-ABA1-4D90-8D21-9D8B86927742</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7216E801-ABA1-4D90-8D21-9D8B86927742.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765733001.37224305</real>
+			<key>timeStoppedRecording</key>
+			<real>765733001.47976303</real>
+			<key>title</key>
+			<string>Build ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7216E801-ABA1-4D90-8D21-9D8B86927742</string>
+		</dict>
 		<key>72A40079-5AE9-4C2F-8B6A-8FB940ECF483</key>
 		<dict>
 			<key>className</key>
@@ -131,6 +215,132 @@
 			<string>Build ShapesGridApp</string>
 			<key>uniqueIdentifier</key>
 			<string>72A40079-5AE9-4C2F-8B6A-8FB940ECF483</string>
+		</dict>
+		<key>85680095-A3E1-4C1B-B429-A6C91FF2775C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85680095-A3E1-4C1B-B429-A6C91FF2775C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765732866.98000705</real>
+			<key>timeStoppedRecording</key>
+			<real>765732869.27869999</real>
+			<key>title</key>
+			<string>Build ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>85680095-A3E1-4C1B-B429-A6C91FF2775C</string>
+		</dict>
+		<key>CD02C162-4879-4ABF-8373-15C0ABAE9805</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD02C162-4879-4ABF-8373-15C0ABAE9805.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765732932.14356399</real>
+			<key>timeStoppedRecording</key>
+			<real>765732932.21876204</real>
+			<key>title</key>
+			<string>Build ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CD02C162-4879-4ABF-8373-15C0ABAE9805</string>
+		</dict>
+		<key>D457E664-F4E6-41DF-A264-D0C4CA8B8A2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D457E664-F4E6-41DF-A264-D0C4CA8B8A2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765733225.832232</real>
+			<key>timeStoppedRecording</key>
+			<real>765733228.91022098</real>
+			<key>title</key>
+			<string>Build ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D457E664-F4E6-41DF-A264-D0C4CA8B8A2E</string>
 		</dict>
 		<key>EFDBA5EF-D9F5-4FE2-8757-A6AA6D3E5668</key>
 		<dict>

@@ -67,6 +67,128 @@
 			<key>uniqueIdentifier</key>
 			<string>22070F9F-4DBC-4708-9BDB-DF5221C8EF56</string>
 		</dict>
+		<key>2CD85D98-1CEE-4C21-8261-E7A23C2DB388</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D457E664-F4E6-41DF-A264-D0C4CA8B8A2E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ShapesGridApp-2025.04.07_11-40-25--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765733225.83189499</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2CD85D98-1CEE-4C21-8261-E7A23C2DB388</string>
+		</dict>
+		<key>409786E3-A330-4D51-AAEC-75612A6EDFE2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7216E801-ABA1-4D90-8D21-9D8B86927742</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ShapesGridApp-2025.04.07_11-36-41--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765733001.37205803</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>409786E3-A330-4D51-AAEC-75612A6EDFE2</string>
+		</dict>
 		<key>469DF258-1215-49CE-A055-9919B50FA8BE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -189,6 +311,67 @@
 			<key>uniqueIdentifier</key>
 			<string>8306CB64-B372-400D-8853-159AB5D1B12B</string>
 		</dict>
+		<key>A241577A-256A-4740-AF11-5375F49AFD46</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>85680095-A3E1-4C1B-B429-A6C91FF2775C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ShapesGridApp-2025.04.07_11-34-26--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765732866.97979903</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A241577A-256A-4740-AF11-5375F49AFD46</string>
+		</dict>
 		<key>C18AF99D-BA0E-4375-9087-85FBE539B029</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -249,6 +432,67 @@
 			<string>Run ShapesGridApp</string>
 			<key>uniqueIdentifier</key>
 			<string>C18AF99D-BA0E-4375-9087-85FBE539B029</string>
+		</dict>
+		<key>C3C84FB0-B1D1-4091-9C77-E20E4D282F07</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>CD02C162-4879-4ABF-8373-15C0ABAE9805</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ShapesGridApp-2025.04.07_11-35-32--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShapesGridApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShapesGridApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ShapesGridApp</string>
+			<key>timeStartedRecording</key>
+			<real>765732932.14338005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ShapesGridApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C3C84FB0-B1D1-4091-9C77-E20E4D282F07</string>
 		</dict>
 		<key>FBAEC161-7DB3-4C66-9CB1-212B1966B145</key>
 		<dict>
