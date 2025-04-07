@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridAppUITests.build/Objects-normal/arm64/ShapesGridAppUITests-master.d",
+    "diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridAppUITests.build/Objects-normal/arm64/ShapesGridAppUITests-master.dia",
+    "emit-module-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridAppUITests.build/Objects-normal/arm64/ShapesGridAppUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridAppUITests.build/Objects-normal/arm64/ShapesGridAppUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-iphoneos/ShapesGridAppUITests.build/Objects-normal/arm64/ShapesGridAppUITests-master.swiftdeps"
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridAppUITests/ShapesGridAppUITests.swift" : {
+
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridAppUITests/ShapesGridAppUITestsLaunchTests.swift" : {
+
+  }
+}

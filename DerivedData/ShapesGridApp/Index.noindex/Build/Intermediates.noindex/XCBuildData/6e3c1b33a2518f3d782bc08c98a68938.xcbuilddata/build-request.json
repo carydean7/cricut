@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2aafccb436e3c5741f5a36e022ae3bdb307d3e1eb52392233417ea36e1effa74"
+    },
+    {
+      "guid" : "2aafccb436e3c5741f5a36e022ae3bdbed95239a11cfdd2bc1f45988cc5a60cc"
+    },
+    {
+      "guid" : "2aafccb436e3c5741f5a36e022ae3bdbf1326c897f7ccaa81f431116c1790e2f"
+    }
+  ],
+  "containerPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Build/Products",
+      "pchPath" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

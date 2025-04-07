@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-maccatalyst/ShapesGridAppTests.build/Objects-normal/x86_64/ShapesGridAppTests-master.d",
+    "diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-maccatalyst/ShapesGridAppTests.build/Objects-normal/x86_64/ShapesGridAppTests-master.dia",
+    "emit-module-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-maccatalyst/ShapesGridAppTests.build/Objects-normal/x86_64/ShapesGridAppTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-maccatalyst/ShapesGridAppTests.build/Objects-normal/x86_64/ShapesGridAppTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wagstaffd/Desktop/ShapesGridApp/DerivedData/ShapesGridApp/Index.noindex/Build/Intermediates.noindex/ShapesGridApp.build/Debug-maccatalyst/ShapesGridAppTests.build/Objects-normal/x86_64/ShapesGridAppTests-master.swiftdeps"
+  },
+  "/Users/wagstaffd/Desktop/ShapesGridApp/ShapesGridAppTests/ShapesGridAppTests.swift" : {
+
+  }
+}
